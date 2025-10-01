@@ -1,0 +1,9 @@
+#!/usr/bin/env php
+<?php
+require __DIR__ . '/../vendor/autoload.php';
+
+use ZerolLka\GuessNumber\Controller;
+
+// Получаем аргументы командной строки
+$args = array_slice($argv, 1);
+Controller\startGame($args);
