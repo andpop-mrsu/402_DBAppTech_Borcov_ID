@@ -1,0 +1,18 @@
+{
+    "name": "igor/guess-number",
+    "description": "Lab 4 with SQLite support",
+    "type": "project",
+    "require": {
+        "php": ">=8.0",
+        "wp-cli/php-cli-tools": "^0.12.6",
+        "ext-pdo_sqlite": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ZerolLka\\GuessNumber\\": "src/"
+        }
+    },
+    "bin": [
+        "bin/guess-number"
+    ]
+}

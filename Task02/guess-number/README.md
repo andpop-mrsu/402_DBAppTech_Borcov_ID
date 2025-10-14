@@ -60,3 +60,6 @@ Task02/
 	 
 Автор
 BortsovIgor (ZerolLka)
+
+## Ссылка на Packagist
+https://packagist.org/packages/bortsovigor/guess-number
