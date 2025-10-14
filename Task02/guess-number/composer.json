@@ -1,5 +1,5 @@
 {
-  "name": "igor/guess-number",
+  "name": "bortsovigor/guess-number",
   "description": "Console Guess-number game (variant 2)",
   "type": "project",
   "bin": [
